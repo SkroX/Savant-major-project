@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1089602527794",
+    "project_id": "ajent-major-project",
+    "storage_bucket": "ajent-major-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089602527794:android:2100b1d3fc5c2fedf2922b",
+        "android_client_info": {
+          "package_name": "com.example.ajent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089602527794-b3vdbmdr2mv1lt7pt8vvelegudri8qv3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ajent",
+            "certificate_hash": "07ce1f2862f1e725463eca3a21d9de9f05e55b85"
+          }
+        },
+        {
+          "client_id": "1089602527794-n270c6e5qtmm2er602u0vrcv306cseik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQTaRVMSnoJS9UnRumU38gDQRSbUKHQKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089602527794-n270c6e5qtmm2er602u0vrcv306cseik.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1089602527794-fqj1gk9i948vsbr97o24j8m96l0n6cjd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ajent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
